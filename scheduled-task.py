@@ -1,5 +1,8 @@
-# must install module from pip
-# pip3 install pyautogui
+# must install modules from pip
+# pip3 install pyautogui 
+# pip3 install schedule
+# and run this command too 
+# sudo apt-get install python3-tk python3-dev
 
 import schedule
 import time
